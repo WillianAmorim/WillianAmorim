@@ -36,6 +36,7 @@ Contatos:
 <br>
 <br>
 <br>
+  [![ Willian Stats ](https://github-readme-stats.vercel.app/api?username=WillianAmorim&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAmorim&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
