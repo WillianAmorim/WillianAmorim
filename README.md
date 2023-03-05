@@ -1,43 +1,54 @@
-### Hi there :sunglasses:
+## Bom dia, boa tarde e boa noite 👋
 
-Eu me chamo Willian Amorim, sou um programador Front-End, tenho experiências com projetos que utilizam como tecnologia:
-<br>
-<br>
-   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
-   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
-   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/>
-   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react"/>
-   - <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-logo" />
-   - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-logo" />
- 
-<br>
-<br>
- No momento estou iniciando meus aprendizados no Back-End ultilizando como tecnologia:
- <br>
- <br>
- 
-  - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node.js"/>
-  - <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express-logo" />
-  - <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo" />
-  
-<br>
-<br>
+<div align="justify">
+  Me chamo Willian, estudante de desenvolvimento web FullStack, atualmente dando um foco maior no Front-end, atualmente sou um desenvolvedor freelancer. Apaixonado pelo desenvolvimento de software, busco a cada dia estar sempre melhorando e aprendendo o que de melhor existe nas tecnologias usadas.
+ </div>
 
-Contatos:
-<br>
-<br>
-  <a href="https://wa.me/5598988047432">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-logo" />
+Estou aqui para ensinar, aprender, trocar experiências, <strong>Happy Hour</strong>!🎉
+
+## Algumas coisas que são indispensáveis na minha vida 🤔
+
+<ul align="justify">
+  <li>⚽ Gosto muito de jogar e assistir<strong>jogar futebol</strong>. 😂</li>
+  <li>🧳 Adoro <strong>viajar, junto a isso conhecer novas pessoas e culturas</strong>. 😂</li>
+  <li>👪 Amo <strong>estar junto a família, (isso de fato é indispensável kkkk)</strong>. 😂</li>
+  <li>👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de <strong>front-end</strong>. Junto a isso agregar meu conhecimento atual com tecnologias e frameworks de front-end mais ultilizados no mercado atualmente.</li>
+</ul>
+
+## Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+</div>
+
+## Minhas Redes Sociais
+<div>
   </a>
-  
-  <a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" />
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/willian-s-amorim/" target="_blank">
+    <img width="90px" height="35px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<br>
-<br>
-<br>
-  [![ Willian Stats ](https://github-readme-stats.vercel.app/api?username=WillianAmorim&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAmorim&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+## GitHub Stats
+<table>
+<tr><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WillianAmorim&show_icons=true&theme=radical" />
+  </a>
+
+</td><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianAmorim&layout=compact&theme=radical" />
+  </a>
+
+</td></tr>
+</table>
 
  
