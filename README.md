@@ -38,7 +38,7 @@ Estou aqui para ensinar, aprender, trocar experiências, <strong>Happy Hour</str
 <table>
 <tr><td>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=WillianAmorim&show_icons=true&theme=radical" />
   </a>
 
