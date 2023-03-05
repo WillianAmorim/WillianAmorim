@@ -1,7 +1,7 @@
 ## Bom dia, boa tarde e boa noite 👋
 
 <div align="justify">
-  Me chamo Willian, estudante de desenvolvimento web FullStack, atualmente dando um foco maior no Front-end, atualmente sou um desenvolvedor freelancer. Apaixonado pelo desenvolvimento de software, busco a cada dia estar sempre melhorando e aprendendo o que de melhor existe nas tecnologias usadas.
+  Me chamo Willian, estudante de desenvolvimento web FullStack, dando um foco maior no Front-end, atualmente sou um desenvolvedor freelancer. Apaixonado pelo desenvolvimento de software, busco a cada dia estar sempre melhorando e aprendendo o que de melhor existe nas tecnologias usadas.
  </div>
 
 Estou aqui para ensinar, aprender, trocar experiências, <strong>Happy Hour</strong>!🎉
