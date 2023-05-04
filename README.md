@@ -9,7 +9,7 @@ Estou aqui para ensinar, aprender, trocar experiências, <strong>Happy Hour</str
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 
 <ul align="justify">
-  <li>⚽ Gosto muito de jogar e assistir<strong>jogar futebol</strong>. 😂</li>
+  <li>⚽ Gosto muito de assistir e <strong>jogar futebol</strong>. 😂</li>
   <li>🧳 Adoro <strong>viajar, junto a isso conhecer novas pessoas e culturas</strong>. 😂</li>
   <li>👪 Amo <strong>estar junto a família, (isso de fato é indispensável kkkk)</strong>. 😂</li>
   <li>👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de <strong>front-end</strong>. Junto a isso agregar meu conhecimento atual com tecnologias e frameworks de front-end mais ultilizados no mercado atualmente.</li>
